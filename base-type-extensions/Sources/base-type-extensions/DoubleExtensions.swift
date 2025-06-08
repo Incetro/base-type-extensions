@@ -1,5 +1,5 @@
 //
-//  DoubleExtensions.swift
+//  Double + Extensions.swift
 //  base-type-extensions
 //
 //  Created by Andrey Barsukov on 31.05.2025.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - Double
+// MARK: - Double + Extensions
 
 extension Double {
     

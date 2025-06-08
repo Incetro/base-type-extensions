@@ -1,5 +1,5 @@
 //
-//  ArrayExtensions.swift
+//  Array + Extensions.swift
 //  base-type-extensions
 //
 //  Created by Andrey Barsukov on 31.05.2025.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - Array
+// MARK: - Array + Extensions
 
 extension Array {
     

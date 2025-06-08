@@ -1,5 +1,5 @@
 //
-//  TimeIntervalExtensions.swift
+//  TimeInterval + Extensions.swift
 //  base-type-extensions
 //
 //  Created by Andrey Barsukov on 31.05.2025.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - TimeInterval
+// MARK: - TimeInterval + Extensions
 
 extension TimeInterval {
 
